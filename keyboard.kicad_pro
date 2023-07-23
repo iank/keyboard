@@ -502,5 +502,8 @@
       ""
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "date": "2023-07-22T22:23-04:00",
+    "git_hash": "Git:v0.1.0"
+  }
 }

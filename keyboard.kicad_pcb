@@ -6,10 +6,10 @@
 
   (paper "A4")
   (title_block
-    (title "Pierce Keyboard")
-    (date "2021-02-12")
-    (rev "v 0.1")
-    (comment 4 "Author: Durken")
+    (title "Keyboard")
+    (date "${date}")
+    (rev "${git_hash}")
+    (comment 4 "Ian Kilgore")
   )
 
   (layers

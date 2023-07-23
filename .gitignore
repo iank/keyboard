@@ -4,6 +4,7 @@
 *.bck
 *.kicad_pcb-bak
 *.kicad_sch-bak
+*.kicad_pro-bak
 *-backups
 *.kicad_prl
 *.sch-bak
@@ -24,3 +25,11 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# vim
+.*.swp
+
+# kibot output
+/bom/
+/schematic/
+*-erc.txt

@@ -6,9 +6,9 @@
 
   (title_block
     (title "keyboard - wireless side")
-    (date "2023-07-22")
-    (rev "v0.1")
-    (comment 4 "Author: Ian Kilgore")
+    (date "${date}")
+    (rev "${git_hash}")
+    (comment 4 "Ian Kilgore")
   )
 
   (lib_symbols
